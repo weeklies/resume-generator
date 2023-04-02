@@ -1,0 +1,32 @@
+body {
+  max-width: 800px;
+  margin: auto;
+  padding: 3em 1.5em;
+  font-family: 'Open Sans', Roboto, 'Helvetica Neue', 'Arial Nova',
+    'Nimbus Sans', Arial, sans-serif;
+}
+
+.result {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: min(7vh, 20px) min(5vw, 30px);
+  min-width: min(60vw, 800px);
+}
+
+a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.educationList p {
+  margin-bottom: 0.5rem;
+}
+
+h5 {
+  margin-bottom: 0.7rem;
+  margin-top: 0.7rem;
+}
+
+p.forTextarea {
+  margin-bottom: 0;
+  white-space: pre-line;
+}
